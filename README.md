@@ -15,3 +15,9 @@ We are using DeepFace library for facial expression detection.The deepface libra
 # Classes
 We have Included 7 classes
 {Angry  ,Disguised  ,Fear ,Happy ,Sad ,Surprised ,Neutral}
+
+# How to Access?
+You Can Access code from JupyterNotebook named->EmotionDetectionSourceCode .
+Get neccessary libraries installed from Requirements.txt file and get started.
+
+Happy Coding😊
