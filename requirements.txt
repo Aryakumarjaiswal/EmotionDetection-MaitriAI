@@ -1,0 +1,11 @@
+tensorflow
+keras
+pandas
+numpy
+jupyternotebook
+tqdm
+opencv-contrib-python
+deepface
+matplotlib
+Flask
+Pillow
