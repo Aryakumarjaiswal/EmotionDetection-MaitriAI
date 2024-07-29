@@ -1,5 +1,6 @@
 # EmotionDetection-MaitriAI
 We are using DeepFace library for facial expression detection.The deepface library provides pretrained models for various tasks including:
+
 1)Face detection
 
 2)Face recognition
